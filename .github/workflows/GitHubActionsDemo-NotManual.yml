@@ -1,4 +1,4 @@
-name: GitHub Actions Demo Not yml 
+name: GitHub Actions Demo Not Manual
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 
 on:
